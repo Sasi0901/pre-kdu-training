@@ -1,0 +1,42 @@
+
+
+.counter{
+    text-align: center;
+    background-color: violet;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#countdis{
+    text-align: center;
+    font-size: 30px;
+}
+
+.btn{
+    width: 50%;
+    text-align: center;
+    margin-top: 30px;
+    padding: 25px;
+    margin: auto;
+}
+#inc{
+    font-size: 25px;
+    padding: 25px;
+    margin-right: 25px;
+    border-radius: 5px;
+}
+
+#dec{
+    font-size: 25px;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+#inc:hover,#dec:hover{
+    background-color: violet;
+    border: 2px solid black;
+}
